@@ -13,3 +13,6 @@
 
 # Jetbrains IDE
 .idea
+
+# Mac OS
+.DS_Store
